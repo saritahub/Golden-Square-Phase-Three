@@ -1,5 +1,5 @@
 class DiaryEntry
-  def initialize(title, contents) # title, contents are both strings
+  def initialize(title, contents) 
     @title = title
     @contents = contents
   end

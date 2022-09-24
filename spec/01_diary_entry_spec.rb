@@ -11,5 +11,4 @@ RSpec.describe "DiaryEntry" do
     diary_entry = DiaryEntry.new("title", "one two")
     expect(diary_entry.count_words).to eq 2
   end
-
 end

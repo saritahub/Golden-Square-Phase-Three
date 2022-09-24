@@ -8,3 +8,4 @@ RSpec.describe "integration" do
     expect(diary.count_words).to eq 5
   end
 end
+
